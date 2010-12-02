@@ -1,0 +1,1 @@
+The project displays cluster of twitter users with mentions on a particular topic. For visualization, protovis API has been used. The project uses twitter search API.
